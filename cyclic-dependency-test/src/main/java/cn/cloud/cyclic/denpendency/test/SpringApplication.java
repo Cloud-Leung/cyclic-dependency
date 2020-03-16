@@ -24,7 +24,6 @@ public class SpringApplication {
 
         Object beanB = getBean(applicationContext, SpringBeanB.class);
         Object beanC = getBean(applicationContext, SpringBeanC.class);*/
-
         System.out.println(1);
     }
 
